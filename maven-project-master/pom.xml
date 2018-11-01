@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:gmsr1252/Devops.git</connection>
     <developerConnection>scm:git:git@github.com:gmsr1252/Devops.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/gmsr1252/Devops</url>
+    <url>http://github.com/gmsr1252/Devops/maven-project</url>
   </scm>
 
   <prerequisites>
