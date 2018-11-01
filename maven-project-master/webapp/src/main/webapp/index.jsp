@@ -1,1 +1,1 @@
-Hello, World! from GMSR gtihub
+Hello, World! from GMSR github
